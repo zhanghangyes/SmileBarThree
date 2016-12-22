@@ -76,7 +76,7 @@ or
     //...
     dependencies {
         //...
-        compile 'com.github.eugeneek:smilebarThree:v1.0.0'
+        compile 'com.github.eugeneek:smilebar:v1.0.0'
     }
 ```
 ## License
