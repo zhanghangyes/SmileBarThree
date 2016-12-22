@@ -1,7 +1,6 @@
 # SmileBar
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SmileBar-green.svg?style=true)](https://android-arsenal.com/details/1/3771)
 
-Simple android library, that provide rating view with different drawables for each rating value. This library based on [badoo's](https://github.com/badoo)  [StarBar](https://github.com/badoo/StarBar) view
+这是一个5分的效果图，由于项目需要，所以只能显示3个
 
 ![screenshot](img/screenshot.png)
 
@@ -24,8 +23,6 @@ Simple android library, that provide rating view with different drawables for ea
             app:smileRate1="@drawable/one"
             app:smileRate2="@drawable/two"
             app:smileRate3="@drawable/three"
-            app:smileRate4="@drawable/four"
-            app:smileRate5="@drawable/five"
             app:horizontalSpacing="8dp"
             app:rating="1"
             app:enabled="true"/>
@@ -79,7 +76,7 @@ or
     //...
     dependencies {
         //...
-        compile 'com.github.eugeneek:smilebar:v1.0.0'
+        compile 'com.github.eugeneek:smilebarThree:v1.0.0'
     }
 ```
 ## License
